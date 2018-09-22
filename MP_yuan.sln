@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MP_yuan", "MP_yuan\MP_yuan.csproj", "{FCA301CE-F804-4FCD-890F-10B9A8B88CBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCA301CE-F804-4FCD-890F-10B9A8B88CBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCA301CE-F804-4FCD-890F-10B9A8B88CBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCA301CE-F804-4FCD-890F-10B9A8B88CBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCA301CE-F804-4FCD-890F-10B9A8B88CBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
