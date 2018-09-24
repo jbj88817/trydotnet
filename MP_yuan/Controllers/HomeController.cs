@@ -9,16 +9,17 @@ namespace MP_yuan.Controllers
             return View();
         }
 
-        public ActionResult About()
+        public ActionResult Resume()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Checkout my resume:)";
 
             return View();
         }
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Let's Connect!!!";
+            
 
             return View();
         }
